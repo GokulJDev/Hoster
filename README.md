@@ -1,4 +1,4 @@
-# Hoster
+# Hotstar
 
 Web Application built using HTML and CSS.
 
